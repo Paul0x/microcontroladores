@@ -1,0 +1,11 @@
+C:\Microcontroladores\TP2 - Paulo Felipe Possa Parreira\SupervisorioForno\SupervisorioForno\bin\Debug\SupervisorioForno.exe.config
+C:\Microcontroladores\TP2 - Paulo Felipe Possa Parreira\SupervisorioForno\SupervisorioForno\bin\Debug\SupervisorioForno.exe
+C:\Microcontroladores\TP2 - Paulo Felipe Possa Parreira\SupervisorioForno\SupervisorioForno\bin\Debug\SupervisorioForno.pdb
+C:\Microcontroladores\TP2 - Paulo Felipe Possa Parreira\SupervisorioForno\SupervisorioForno\obj\Debug\SupervisorioForno.csprojAssemblyReference.cache
+C:\Microcontroladores\TP2 - Paulo Felipe Possa Parreira\SupervisorioForno\SupervisorioForno\obj\Debug\SupervisorioForno.MainForm.resources
+C:\Microcontroladores\TP2 - Paulo Felipe Possa Parreira\SupervisorioForno\SupervisorioForno\obj\Debug\SupervisorioForno.Properties.Resources.resources
+C:\Microcontroladores\TP2 - Paulo Felipe Possa Parreira\SupervisorioForno\SupervisorioForno\obj\Debug\SupervisorioForno.csproj.GenerateResource.cache
+C:\Microcontroladores\TP2 - Paulo Felipe Possa Parreira\SupervisorioForno\SupervisorioForno\obj\Debug\SupervisorioForno.csproj.CoreCompileInputs.cache
+C:\Microcontroladores\TP2 - Paulo Felipe Possa Parreira\SupervisorioForno\SupervisorioForno\obj\Debug\SupervisorioForno.exe
+C:\Microcontroladores\TP2 - Paulo Felipe Possa Parreira\SupervisorioForno\SupervisorioForno\obj\Debug\SupervisorioForno.pdb
+C:\Microcontroladores\TP2 - Paulo Felipe Possa Parreira\SupervisorioForno\SupervisorioForno\obj\Debug\SupervisorioForno.csproj.CopyComplete
